@@ -16,7 +16,7 @@
             android:layout_height="match_parent"
             android:background="@drawable/ic_launcher_background"
             android:foreground="@drawable/rounded_fg"
-            app:srcCompat="@drawable/ic_launcher_foreground" />
+            android:src="@drawable/ic_launcher_foreground"
             tools:srcCompat="@android:drawable/sym_def_app_icon" />
 
         <LinearLayout
